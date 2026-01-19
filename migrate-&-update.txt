@@ -1,0 +1,2 @@
+Move into a main/master repo for knowledge and guides. 
+Update and refurbish the code so it works with modern library version (there are probably twice as many options now)
